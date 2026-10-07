@@ -4,4 +4,6 @@
 
 | № | Тема                                          | Ссылка                                                         |
 | --- | --------------------------------------------- | -------------------------------------------------------------- |
-| 1 | Основы анализа данных на языке Python                                    | [Lab1](https://github.com/Beliberdeck/Basics-of-AI/blob/main/Lab1/Solution.ipynb) |
+| 1 | Исследовательский анализ данных                                    | [Lab1](https://github.com/Beliberdeck/Basics-of-AI/blob/main/Lab1/Solution.ipynb) |
+| 2 | Подготовка факторов                                                | |
+| 3 | Выбор и создание модели                                            | |
