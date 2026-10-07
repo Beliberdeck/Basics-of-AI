@@ -7,7 +7,7 @@
 | Файл | Описание |
 |------|----------|
 | [Solution.ipynb](https://github.com/Beliberdeck/Basics-of-AI/blob/main/Lab1/Solution.ipynb) | Jupyter-ноутбук с решениями всех заданий |
-| `Отчёт.docx` | Отчёт по лабораторной работе |
+| [Отчёт.docx](https://github.com/Beliberdeck/Basics-of-AI/blob/main/Lab1/Отчёт.docx) | Отчёт по лабораторной работе |
 | `movies_data.csv` | Данные о фильмах (задание 5) |
 | `movies_budget.csv` | Бюджет, число зрителей и стоимость билета (задания 6–7) |
 | `many_factors_data.csv` | Пять факторов для поиска зависимостей (задание 8) |
